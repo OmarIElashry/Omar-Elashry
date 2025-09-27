@@ -12,10 +12,25 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer specializing in Mobile Applications. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+- Software Engineer with 6+ years of experience
 
+- Business Developer and Technical Consultant with 3+ years of expertise in scaling tech solutions and startups.
 
+- Founder & CEO of O-Code
+
+- AI, Data Analysis Lover
+
+Specialized in:
+
+= Full-cycle software development (Mobile Applications <Android / Flutter>)
+
+= Tech consulting: for organizations like:-
+( ITC, Techno, Shai, Smart International Schools, Delta College, and more ).
+
+= Leadership: Founder & CEO of O-Code (leading 30+ members) .
+
+= Education: Creating an impact as a Technical Instructor for 500+ students across universities , national initiatives, and Training centers like:-
+( Mansoura University/ Almentor / iSchool / DECI & DEMI -Egyptian Ministry of Communications- ).
 <br clear="right"/>
 
 ## 🔧 My Tech Stack
