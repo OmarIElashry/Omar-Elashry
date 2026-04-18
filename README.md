@@ -1,4 +1,4 @@
-# Hey there, I'm [Omar Elashry]👋
+# Hey there, I'm **Omar Elashry**👋
 
 **Software Engineer Returned to Data Analyst and Business Developer **
 
