@@ -12,25 +12,38 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-- Software Engineer with 6+ years of experience
+- Software Engineer turned Data Analyst with 7 years of experience in total. Proficient in Marketing and Business analysis, with a strong speciality in Power BI, Tableau, and Excel.
+  
+- Great communicator and project manager, drawing on my experience as a Business Development Manager, Technical and business instructor, and operational leader.
 
-- Business Developer and Technical Consultant with 3+ years of expertise in scaling tech solutions and startups.
+- Strategic Learning & Development leader with hands-on technical instruction expertise. Designs and delivers high-impact training programs that drive adoption, close skill gaps, and align with business KPIs.
+  
+- Combines adult learning theory with deep technical knowledge to lead instructor-led training
+and manage enterprise-wide L&D initiatives.
 
-- Founder & CEO of O-Code
+- Founder & Co-Founder of 3 companies
 
-- AI, Data Analysis Lover
 
 Specialized in:
 
-= Full-cycle software development (Mobile Applications <Android / Flutter>)
+= Programming Languages: Python, R, SQL, C++, C#, Java
 
-= Tech consulting: for organizations like:-
-( ITC, Techno, Shai, Smart International Schools, Delta College, and more ).
+= Databases: PostgreSQL, MongoDB, BigQuery, MySQL
 
-= Leadership: Founder & CEO of O-Code (leading 30+ members) .
+= Data Analysis and Visualization: Advanced Excel, SQL, Tableau, Power BI
 
-= Education: Creating an impact as a Technical Instructor for 500+ students across universities , national initiatives, and Training centers like:-
-( Mansoura University/ Almentor / iSchool / DECI & DEMI -Egyptian Ministry of Communications- ).
+= Customer Relationship Management (CRM): Salesforce, HubSpot, Zoho
+
+= Market and Competitive Analysis Tools: SimilarWeb, Google Trends
+
+= Project Management Tools: Notion, Slack, Microsoft Teams
+
+Expertise in:
+
+= Data Analytics                      = Business Development Manager
+= Technical Consultation              = Learning & Development Manager
+= Technical & Business Instructor     = Management & Leadership
+
 <br clear="right"/>
 
 ## 🔧 My Tech Stack
