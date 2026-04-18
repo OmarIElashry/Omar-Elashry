@@ -40,9 +40,17 @@ Specialized in:
 
 Expertise in:
 
-= Data Analytics                      = Business Development Manager
-= Technical Consultation              = Learning & Development Manager
-= Technical & Business Instructor     = Management & Leadership
+= Data Analytics                      
+
+= Business Development Manager
+
+= Technical Consultation              
+
+= Learning & Development Manager
+
+= Technical & Business Instructor     
+
+= Management & Leadership
 
 <br clear="right"/>
 
